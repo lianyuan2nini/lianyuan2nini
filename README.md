@@ -13,7 +13,7 @@ currently leveling up in Python, biology & scientific computing.
 | | |
 |---|---|
 | Location | Tokyo, Japan |
-| SILS @ Waseda |
+| Education | SILS @ Waseda |
 | Current level | Still grinding XP... |
 
 ### inventory
