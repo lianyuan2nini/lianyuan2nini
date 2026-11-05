@@ -1,16 +1,26 @@
-## Hi there 👋
 
 <!--
 **lianyuan2nini/lianyuan2nini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# hi, i'm Chrissy! ฅ^•ﻌ•^ฅ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`aspiring software engineer`
+
+currently leveling up in Python, biology & scientific computing.
+
+### 🌱 character stats
+
+| | |
+|---|---|
+| Location | Tokyo, Japan |
+| SILS @ Waseda |
+| Current level | Still grinding XP... |
+
+### inventory
+
+**Languages:** Python · R
+
+**Tools:** NumPy ·  Matplotlib · Git · LaTeX
+
+
+
